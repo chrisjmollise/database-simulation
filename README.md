@@ -1,4 +1,4 @@
-#DATABASE SIMULATION
+# DATABASE SIMULATION
 
 This project for UNR's CS 457 Database Management simulates SQL commands using C++. This project makes use of C++ and the experimetnal Filesystem library in order to simulate databases. These databases exist in textfiles that can be manipulated through the program. Only certain functions are available as the project is a proof of concept on how some of the main SQL commands would be implemented. Implementation information for this project can be found at:
 
